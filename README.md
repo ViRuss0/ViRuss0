@@ -14,7 +14,7 @@
 <p>
   📊 Some fantasy football support application (focused on the Italian league)</br>
   ⚽ Some sport related mini-games, such as a simple football championship simulator</br>
-  📖 some practice materials that I've built during my learning process </br>
+  📖 Some practice materials that I've built during my learning process </br>
   🔧 Some utilities web apps, that I intend to build to make my life "easier" or to optimize some tasks or activities
 </p>
 
